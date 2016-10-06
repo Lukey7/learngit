@@ -1,3 +1,4 @@
 TEST
 
 # comment
+echo Hello, world!
